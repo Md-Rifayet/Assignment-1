@@ -84,30 +84,16 @@ margin-top: 50px;
 margin-left: 3%;
 }
 
-.final-sec{
-    margin: 10%;
-}
-
-.banner{
-    position: relative; width: 99%; margin: 0px;
-}
-.banner img{
-    width: 80%;
-}
-
-
 #banner{
     background-image: url("images/last.png");
     background-repeat: no-repeat;
     background-size:contain;
     margin: 7% 20%;
-    height: 250px;
-    
-}
-.page-size{
     height: 100px;
     margin-bottom: 10%;
+    
 }
+
 #work-inquiry{
     width: 660px;
     height: 250px;
